@@ -1,0 +1,17 @@
+
+.main{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 200px;
+  gap: 10px;
+  margin: auto;
+}
+
+button{
+  background-color: green;
+  color: #fff;
+  padding: 17px;
+  border-radius: 12px;
+  cursor: pointer;
+  border: none;
+}
